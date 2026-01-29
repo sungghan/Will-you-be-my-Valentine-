@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "진짜?",
+    "아니 진짜??",
+    "확실함?",
+    "짜증나게하지마...",
+    "하지말라고!",
+    "짜증나게하지말라고했다...",
+    "진심으로 짜증나게하지마...",
+    "사랑한다고",
+    "미치겠다 진짜",
     "Just kidding, say yes please! ❤️"
 ];
 
